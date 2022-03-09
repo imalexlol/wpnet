@@ -42,7 +42,7 @@ const bookmarks = [
     links: [
       { name: "ovo", url: "./ovo/" },
       { name: "tetris", url: "./tetris/" },
-      { name: "2048", url: "./2048/" },
+      // { name: "2048", url: "./2048/" },
     ],
   },
   {
