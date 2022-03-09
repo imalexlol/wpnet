@@ -41,7 +41,7 @@ const bookmarks = [
     title: "v1 Games",
     links: [
       { name: "ovo", url: "./ovo/" },
-      { name: "tetris", url: "./tetris/" },
+      // { name: "tetris", url: "./tetris/" },
       // { name: "2048", url: "./2048/" },
     ],
   },
