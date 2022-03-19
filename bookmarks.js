@@ -48,7 +48,7 @@ const bookmarks = [
   {
 	title: "Other",
 	links: [
-		{ name: "Unblocked browser", url: "https://beta.wpnet.gq" },
+		{ name: "Unblocked browser", url: "./internet/" },
 	],
   },
 ];
