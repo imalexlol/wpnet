@@ -35,6 +35,7 @@ const bookmarks = [
     links: [
       { name: "Upload SWF", url: "./gfiles/flash/" },
       { name: "Full Flash game list", url: "./Flist.html" },
+      { name: "Bloxorz", url:"./gfiles/flash/?swf=bloxorz.swf" },
     ],
   },
   {
